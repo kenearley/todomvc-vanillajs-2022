@@ -1,3 +1,4 @@
+// superfluous comment
 import { addEvent, getURLHash } from './helpers.js';
 import { TodoStore } from './store.js';
 
